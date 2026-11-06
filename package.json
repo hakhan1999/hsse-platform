@@ -16,6 +16,7 @@
     "format": "prettier --write ."
   },
   "devDependencies": {
+    "@types/node": "^26.6.6",
     "prettier": "^3.3.0"
   }
 }
