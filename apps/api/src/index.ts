@@ -1,3 +1,4 @@
+/// <reference types="node" />
 import express from 'express';
 import type { ErrorRequestHandler } from 'express';
 import helmet from 'helmet';
